@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|c:\\users\\nrsen\\desktop\\space_war\\space_war\\space_war\\skor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\skor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\skor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\skor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\space_war\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55069E58-204A-49D7-A88D-5E0D3F7554E3}|Space_War\\Space_War.csproj|solutionrelative:space_war\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Spaceship.cs",
+              "RelativeDocumentMoniker": "Space_War\\Spaceship.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Spaceship.cs",
+              "RelativeToolTip": "Space_War\\Spaceship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:58:09.011Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Skor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Skor.cs",
+              "RelativeDocumentMoniker": "Space_War\\Skor.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Skor.cs [Design]",
+              "RelativeToolTip": "Space_War\\Skor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:24:01.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skor.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Skor.cs",
+              "RelativeDocumentMoniker": "Space_War\\Skor.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Skor.cs",
+              "RelativeToolTip": "Space_War\\Skor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:25:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Form1.cs",
+              "RelativeDocumentMoniker": "Space_War\\Form1.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Form1.cs",
+              "RelativeToolTip": "Space_War\\Form1.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAqwK0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:55:41.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Game.cs",
+              "RelativeDocumentMoniker": "Space_War\\Game.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Game.cs",
+              "RelativeToolTip": "Space_War\\Game.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAqwMMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:38:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Enemy.cs",
+              "RelativeDocumentMoniker": "Space_War\\Enemy.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Enemy.cs",
+              "RelativeToolTip": "Space_War\\Enemy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:27:39.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Space_War\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Form1.Designer.cs",
+              "RelativeToolTip": "Space_War\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:40:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Form1.cs",
+              "RelativeDocumentMoniker": "Space_War\\Form1.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Form1.cs [Design]",
+              "RelativeToolTip": "Space_War\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:49:04.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Bullet.cs",
+              "RelativeDocumentMoniker": "Space_War\\Bullet.cs",
+              "ToolTip": "C:\\Users\\nrsen\\Desktop\\space_war\\Space_War\\Space_War\\Bullet.cs",
+              "RelativeToolTip": "Space_War\\Bullet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:17:48.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
